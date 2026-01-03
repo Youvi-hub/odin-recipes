@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about making a recipe website. It consists of 3 recipes of my own choice (I took them from the Allrecipes) and each recipe has a short description, the ingredients that are required to make it and the steps that you need to follow in order the make it with one image of the recipe. You don't need a lot of skills to make this, only some basic knowledge  and understanding of HTML, using the terminal to navigate and create files and directories, using Git and Github (I found this the most difficult of all the other skills).
