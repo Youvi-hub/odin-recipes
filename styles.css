@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(219, 193, 241);
+}
+
+h1 {
+    padding: 20px;
+    border: 20px solid rgb(24, 21, 12);
+    margin: 50px auto;
+    width: 400px;
+    font-size: 40px;
+    background-color: rgba(46, 157, 248, 0.863);
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+}
+
+li {
+    margin: auto;
+    padding: 25px;
+}
