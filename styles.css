@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(219, 193, 241);
+    background-color: rgb(230, 230, 225);
 }
 
 h1 {
@@ -15,7 +15,8 @@ h1 {
     margin: 50px auto;
     width: 400px;
     font-size: 40px;
-    background-color: rgba(46, 157, 248, 0.863);
+    background-color: rgb(245, 245, 220);
+    text-align: center;
 }
 
 ul {
@@ -24,6 +25,7 @@ ul {
 }
 
 li {
-    margin: auto;
+    margin: 5px auto;
     padding: 25px;
+    text-align: center;
 }
